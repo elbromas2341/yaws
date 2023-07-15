@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add HUB-SDK Docs reference section (#7781)
