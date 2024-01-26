@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Elaborate Train and Predict mode docs arguments (#8137)
